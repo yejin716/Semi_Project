@@ -20,3 +20,7 @@
 ### 시각화 
 - 파이 차트, 막대차트 등을 이용해 연령대별, 품목별 소비 트렌드를 시각화 함.
 - 각 변수별로 상관분석한 내용을 시각화 함.
+
+● 수행도구
+Git / github / Sourcetree / vscode / python / numpy / pandas / google sheet
+
